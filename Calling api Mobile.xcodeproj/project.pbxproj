@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D5CA35B42DDED19600E0DF5F /* Competition.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CA35B32DDED19600E0DF5F /* Competition.swift */; };
+		D5CA35B62DDF6C1600E0DF5F /* CompetitionDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5CA35B52DDF6C1600E0DF5F /* CompetitionDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		D5CA35962DDED16A00E0DF5F /* Calling api MobileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Calling api MobileTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5CA35A02DDED16A00E0DF5F /* Calling api MobileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Calling api MobileUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5CA35B32DDED19600E0DF5F /* Competition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Competition.swift; sourceTree = "<group>"; };
+		D5CA35B52DDF6C1600E0DF5F /* CompetitionDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompetitionDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -80,6 +82,7 @@
 		D5CA35802DDED16800E0DF5F = {
 			isa = PBXGroup;
 			children = (
+				D5CA35B52DDF6C1600E0DF5F /* CompetitionDetailView.swift */,
 				D5CA35B32DDED19600E0DF5F /* Competition.swift */,
 				D5CA358B2DDED16800E0DF5F /* Calling api Mobile */,
 				D5CA35992DDED16A00E0DF5F /* Calling api MobileTests */,
@@ -243,6 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5CA35B42DDED19600E0DF5F /* Competition.swift in Sources */,
+				D5CA35B62DDF6C1600E0DF5F /* CompetitionDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
